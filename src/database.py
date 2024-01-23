@@ -5,6 +5,8 @@ from sqlalchemy.orm import sessionmaker
 # DATABASE_URL = "mssql+pyodbc://:Nayan2000#!!@localhost,14330\SQLEXPRESS02,14330/pizza_delivery?driver=ODBC+Driver+17+for+SQL+Server"
 server = 'icubesqlserver.database.windows.net'
 database = 'aact_db'
+
+
 username = 'icubesqlserver'
 password = 'Icube%40345678'
 driver = 'ODBC+Driver+17+for+SQL+Server'  # Adjust the driver based on your setup
